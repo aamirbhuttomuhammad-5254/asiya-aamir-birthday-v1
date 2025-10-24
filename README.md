@@ -1,1 +1,0 @@
-# asiya-aamir-birthday-v1
