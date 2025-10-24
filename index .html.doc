@@ -1,0 +1,22 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>```html</p>
+<p>&lt;!DOCTYPE html&gt;</p>
+<p>&lt;html lang="ur"&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &nbsp; &lt;meta charset="UTF-8" /&gt;</p>
+<p>&nbsp; &nbsp; &lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt;</p>
+<p>&nbsp; &nbsp; &lt;title&gt;Asiya &hearts; Aamir - Birthday Wishes Forever&lt;/title&gt;</p>
+<p>&nbsp; &nbsp; &lt;link rel="stylesheet" href="style.css" /&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &nbsp; &lt;div class="container"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;🎉 Happy Birthday 🎉&lt;/h1&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;Asiya &hearts; Aamir&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p class="wish-urdu"&gt;آپ کی زندگی خوشیوں سے بھرپور ہو، اللہ آپ کو سلامت رکھے۔&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p class="wish-hindi"&gt;आपका जन्मदिन खुशियों से भरा हो, भगवान आपको हमेशा खुश रखें।&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p class="wish-english"&gt;Wishing you a day filled with love, laughter, and endless happiness!&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
+<p>```</p>
+<p>&nbsp;</p>
+<p>---</p></body></html>

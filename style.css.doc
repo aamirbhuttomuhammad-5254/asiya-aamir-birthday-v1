@@ -1,0 +1,44 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>```css</p>
+<p>body {</p>
+<p>&nbsp; &nbsp; background: #ffc0cb; /* soft pink */</p>
+<p>&nbsp; &nbsp; font-family: 'Arial', sans-serif;</p>
+<p>&nbsp; &nbsp; color: #4b004b;</p>
+<p>&nbsp; &nbsp; text-align: center;</p>
+<p>&nbsp; &nbsp; padding: 50px;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.container {</p>
+<p>&nbsp; &nbsp; background: #ffe6f0;</p>
+<p>&nbsp; &nbsp; border-radius: 15px;</p>
+<p>&nbsp; &nbsp; padding: 30px;</p>
+<p>&nbsp; &nbsp; max-width: 600px;</p>
+<p>&nbsp; &nbsp; margin: auto;</p>
+<p>&nbsp; &nbsp; box-shadow: 0 0 15px rgba(255, 192, 203, 0.7);</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>h1 {</p>
+<p>&nbsp; &nbsp; font-size: 3em;</p>
+<p>&nbsp; &nbsp; margin-bottom: 0.2em;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>h2 {</p>
+<p>&nbsp; &nbsp; font-size: 2em;</p>
+<p>margin-bottom: 1em;</p>
+<p>&nbsp; &nbsp; font-weight: normal;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>p {</p>
+<p>&nbsp; &nbsp; font-size: 1.3em;</p>
+<p>&nbsp; &nbsp; margin: 10px 0;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.wish-urdu {</p>
+<p>&nbsp; &nbsp; font-family: 'Noto Nastaliq Urdu', serif;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.wish-hindi {</p>
+<p>&nbsp; &nbsp; font-family: 'Mangal', sans-serif;</p>
+<p>}</p>
+<p>```</p>
+<p>&nbsp;</p>
+<p>---</p></body></html>
